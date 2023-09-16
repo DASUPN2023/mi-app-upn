@@ -64,7 +64,7 @@ function App() {
             <input name="ape" onChange={handleChange2}/>
           </label>
         </fieldset>
-        <button type="submit">Submit</button>
+        <button type="submit">Enviar</button>
       </form>
     </div>
   )
